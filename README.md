@@ -1,4 +1,4 @@
-# Powerbi-Fiteness-Anaylsis
+# PowerBi-Fitness-Analysis
 📌 Project Overview:-
 This project is an interactive Power BI dashboard designed to analyze fitness, workout, and health performance metrics.
 This is Admin Level Dashboard for Anaylze Which Client is Perform Better or Not.
