@@ -79,7 +79,10 @@ The report follows a Star Schema design for better performance and scalability.
 🧑‍💻 Author
 Omkar Kandewad
 
-<img width="1100" height="600" alt="Screenshot 2025-12-25 172434" src="https://github.com/user-attachments/assets/c3db0753-9bcb-4bfb-b757-ff004a166ba7" />
+
+
+<img width="1303" height="742" alt="Screenshot 2025-12-25 172434" src="https://github.com/user-attachments/assets/eb810709-0f38-49c0-a71e-373d23123806" />
+
 
 
 
