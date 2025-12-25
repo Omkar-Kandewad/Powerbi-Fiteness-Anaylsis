@@ -78,7 +78,7 @@ The report follows a Star Schema design for better performance and scalability.
 
 🧑‍💻 Author
 Omkar Kandewad
-Power BI | Data Analytics | Business Intelligence
+
 
 
 
